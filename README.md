@@ -1,1 +1,1 @@
-Practice website made using CSS,HTML and BOOTSTRAP
+Website made using CSS,HTML and BOOTSTRAP
