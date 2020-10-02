@@ -151,3 +151,7 @@ p{
 .social-icon{
   margin: 30px 15px;
 }
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
